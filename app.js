@@ -13,8 +13,4 @@ if (A > B) {
         "A - B\n" +
         "A / B\n" +
         "A * B\n";
-
-} else {
-    console.log("A is not greater than B");
 }
-
